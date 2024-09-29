@@ -9,7 +9,7 @@ JUIT timetable comes in form of a complex excel book with multiple sheets for va
 
 1. Clone the repository:
  ```bash
-    git clone [ https://github.com/ekxhta9/University.git](https://github.com/ekxhta/Timetable-Parser)
+    git clone (https://github.com/ekxhta/Timetable-Parser)
  ```
 3. Follow the following steps for your copy
    
